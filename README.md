@@ -18,6 +18,7 @@ You can type the following command if you want to clone this repository:
 ```shell
 git clone https://github.com/gkapfham/seke2015-panel-presentation.git
 ```
+
 Please note that the presentation uses local fonts so that it can be displayed at a conference on a laptop that either
 may not have access to the Internet or may only have unreliable Internet access. Some browsers may disallow the loading
 of local fonts due to security reasons. However, it should be possible for you to view the presentation correctly when
