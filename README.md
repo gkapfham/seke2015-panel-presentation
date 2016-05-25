@@ -14,7 +14,7 @@ more about my research publications, then you can check out my GitHub repository
 
 Are you interested in previewing the presentation without having to download the code and resources from the GitHub
 site? Well, you can! Please view [Hitchhikers Need Free Vehicles! Shared Repositories for Statistical Analysis in
-SBST](http://cdn.rawgit.com/gkapfham/sbst2016-presentation/master/sbst2016_position.html).
+SBST](http://cdn.rawgit.com/gkapfham/seke2015-panel-presentation/master/seke2015_panel.html).
 
 ## Installation Instructions
 
