@@ -27,8 +27,9 @@ git clone https://github.com/gkapfham/seke2015-panel-presentation.git
 Please note that the presentation uses local fonts so that it can be displayed at a conference on a laptop that either
 may not have access to the Internet or may only have unreliable Internet access. Some browsers may disallow the loading
 of local fonts due to security reasons. However, it should be possible for you to view the presentation correctly when
-using Chrome or Chromium on the Ubuntu operating system &mdash; which is my primary development environment. However, i
-anticipate that the presentation should look correct on a wide variety of operating systems and browsers.
+using Chrome or Chromium on the Ubuntu operating system &mdash; this is my primary development environment and the one
+that I used to give the presentation. However, I anticipate that the presentation slides should display correctly on a
+wide variety of operating systems and browsers.
 
 I have found that some versions of Chrome and Chromium do not quickly load the full-screen images that I use as
 backgrounds. If you notice this problem as well, then I would encourage you to serve the presentation with a local Web
