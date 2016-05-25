@@ -32,14 +32,14 @@ that I used to give the presentation. However, I anticipate that the presentatio
 wide variety of operating systems and browsers.
 
 I have found that some versions of Chrome and Chromium do not quickly load the full-screen images that I use as
-backgrounds. If you notice this problem as well, then I would encourage you to serve the presentation with a local Web
-server, such as the Ruby-based one called [jlong/serve](https://github.com/jlong/serve). If you adopt this approach,
-then you can type the following command:
+backgrounds. If you notice this problem as well, then I would encourage you to "serve" the presentation with a local Web
+server, such as the Ruby-based one available at [jlong/serve](https://github.com/jlong/serve). If you adopt this
+approach, then you should type the following command:
 
 ```shell
 serve 4100
 ```
 
-Now, you can navigate to the Web site `http:localhost:4100/seke2015_panel.html` and view the presentation.  Ultimately,
+Now, you can navigate to the Web site `http://localhost:4100/seke2015_panel.html` and view the presentation.  Ultimately,
 if you are unable to get the presentation to display correctly in your own web browser, then please open a new issue and
 I will attempt to resolve your concerns.
